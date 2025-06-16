@@ -1,15 +1,26 @@
 {
-  "name": "deepseek",
+  "name": "altsch-secondsem-exam",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMuyideen/altsch-secondsem-exam.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMuyideen/altsch-secondsem-exam/issues"
+  },
+  "homepage": "https://github.com/MMuyideen/altsch-secondsem-exam#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "compression": "^1.8.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0"
   }
 }

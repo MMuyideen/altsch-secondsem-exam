@@ -54,4 +54,4 @@ This project is a dynamic prototype of a web application designed to showcase in
    ```
 
 ## Screenshot
-[Rendered Page Screenshot](screenshot.png) 
+![Rendered Page Screenshot](screenshot.png) 
